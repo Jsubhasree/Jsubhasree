@@ -1,6 +1,6 @@
 ### Hello! I am Subha 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jsubhasree&label=Profile+Views&color=blue&style=plastic" alt="raghusaripalli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jsubhasree&label=Profile+Views&color=blue&style=plastic" alt="Jsubhasree" /> </p>
 
 - 🔭 I am open to challenging roles and love to learn new technologies.
 - 🌱 I’m currently working as Full Stack Developer with Backend focus at Expedia Group.
